@@ -10,3 +10,4 @@ if enter_fruit  in fruit:
 else:
     print("No available")
 fruit.sort()
+print(fruit)
