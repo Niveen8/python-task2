@@ -9,3 +9,4 @@ if enter_fruit  in fruit:
     print("Yes available")
 else:
     print("No available")
+fruit.sort()
